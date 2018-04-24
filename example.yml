@@ -1,0 +1,4 @@
+## YAML Template.
+---
+template: Hello, %s!
+defaultName: Stranger
